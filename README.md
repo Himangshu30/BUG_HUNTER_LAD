@@ -1,7 +1,7 @@
 # BUG_HUNTER_LAD
 
 A bash script that will automatically install a list of bug hunting tools I sometimes use for recon, exploitation, etc. (minus burp.) (Contributions are always welcome.)
-![IMAGE](./assets/banner.png)
+![IMAGE](./assets/banner.jpg)
 ## Install
 
 ```sh
